@@ -29,7 +29,7 @@ export default {
   data(){
     return{
       previous:null,
-      current:'600',
+      current:'',
       operator:null,
       operatorClicked:false,
     }
